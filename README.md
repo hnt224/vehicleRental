@@ -1,23 +1,17 @@
 # Auto Reserve - Car Rental Website
 ---
 
-### Admin Experience
----
-
+# Admin Experience
 ![ADMIN](admin_experience.gif)
 
 ---
 
-### User Experience
----
-
+# User Experience
 ![USER](user_experience.gif)
 
 ---
 
-### User Profile
----
-
+# User Profile
 ![Profile](user_profile.png)
 
 ---
